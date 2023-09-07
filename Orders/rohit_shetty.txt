@@ -1,0 +1,4 @@
+107 Print-t-shirt 424.09 
+103 Slim-f-shirt 688.06 
+109 Sleev-t-shirt 572.42 
+105 Strip-cttn-t 679.11 
