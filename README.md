@@ -18,7 +18,7 @@ Welcome to the Clothing Explorer and Shopping App! This simple C application all
 To run this application on your local machine, follow these simple steps:
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-2. ```
+    ```
    https://github.com/ashwanikansal/MiniProject.git
    ```
 3. **Run** the Project.exe file.
