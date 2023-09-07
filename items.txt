@@ -1,0 +1,12 @@
+ID      Name                Price   Discount  
+100     Casual-shirt        629     10
+101     Check-shirt         1424    30
+102     Denim-shirt         559     15
+103     Slim-f-shirt        686     15
+104     Twill-o-shirt       2699    45
+105     Strip-cttn-t        1199    52
+106     Pure-cotton-t       499     50
+107     Print-t-shirt       599     40
+108     Round-neck-t        499     35
+109     Sleev-t-shirt       539     10
+
